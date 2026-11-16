@@ -1,0 +1,17 @@
+tiny-chess-engine/
+├── README.md
+├── .gitignore
+├── requirements.txt
+├── src/
+│   ├── engine.py
+│   ├── search.py
+│   └── evaluation.py
+├── tests/
+│   ├── test_engine.py
+│   └── test_search.py
+├── benchmarks/
+│   └── baseline.py
+├── submissions/
+│   └── engine.py
+└── docs/
+    └── competition-rules.md
